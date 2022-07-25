@@ -1,3 +1,7 @@
+# Projeto criado em Angular pra o Desafio DIO
+
+# Segue o README original...
+
 # Bookstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
